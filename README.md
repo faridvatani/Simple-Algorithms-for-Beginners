@@ -47,7 +47,7 @@
 
  شکل | توضیحات | مثال
  --- | --- | ---
-
+ ![UML-start-end](https://i.imgur.com/gaEz1R8.png) | شکل بیضی برای نمایش شروع و خاتمه عملیات | ![UML-start-end-example](https://i.imgur.com/9Z84Azz.png)
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
  ***
