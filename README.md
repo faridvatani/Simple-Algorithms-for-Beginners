@@ -48,6 +48,8 @@
  شکل | توضیحات | مثال
  --- | --- | ---
  ![UML-start-end](https://i.imgur.com/gaEz1R8.png) | شکل بیضی برای نمایش شروع و خاتمه عملیات | ![UML-start-end-example](https://i.imgur.com/9Z84Azz.png)
+![UMl-Rectangle](https://i.imgur.com/Vz1QRmS.png) | شکل مستطیل برای نمایش دستورات انتساب و محاسباتی و علمیات واگذاری | ![UMl-Rectangle-example](https://i.imgur.com/3C5uK8X.png)
+
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
  ***
