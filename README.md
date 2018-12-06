@@ -47,8 +47,11 @@
 
  شکل | توضیحات | مثال
  --- | --- | ---
- ![UML-start-end](https://i.imgur.com/gaEz1R8.png) | شکل بیضی برای نمایش شروع و خاتمه عملیات | ![UML-start-end-example](https://i.imgur.com/9Z84Azz.png)
-![UMl-Rectangle](https://i.imgur.com/Vz1QRmS.png) | شکل مستطیل برای نمایش دستورات انتساب و محاسباتی و علمیات واگذاری | ![UMl-Rectangle-example](https://i.imgur.com/3C5uK8X.png)
+ ![UML-start-end](https://i.imgur.com/8grw6Pl.png) | شکل بیضی برای نمایش شروع و خاتمه عملیات | ![UML-start-end-example](https://i.imgur.com/RjnHZdI.png)
+![UMl-Rectangle](https://i.imgur.com/sEmsmTL.png) | شکل مستطیل برای نمایش دستورات انتساب و محاسباتی و علمیات واگذاری | ![UMl-Rectangle-example](https://i.imgur.com/k9DZMoz.png)
+![UMl-Parallelogram](https://i.imgur.com/74BVRYc.png) | شکل متوازی الاضلاع برای نمایش ورود و نمایش اطلاعات | ![UMl-Parallelogram-ex](https://i.imgur.com/fKksSvp.png)
+![UMl-Diamond](https://i.imgur.com/kkyuM3H.png) | شکل لوزی برای نمایش دستورات شرطی  | ![UMl-Diamond-ex](https://i.imgur.com/ae4U0Mo.png)
+![UMl-Rectangleradius](https://i.imgur.com/eneh3a5.png) | این شکل برای نمایش اطلاعات بر روی کاغذ چاپ  | ![UMl-Rectangleradius-ex](https://i.imgur.com/7jD1v2z.png)
 
 
 [:back: بازگشت به فهرست](#mag_right-فهرست-موضوعات)
